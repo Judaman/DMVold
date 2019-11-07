@@ -1,6 +1,0 @@
-function sendToWebPt(lName,fName){
-
-
-
-
-}
